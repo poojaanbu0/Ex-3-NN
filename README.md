@@ -38,7 +38,9 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 ## Program:
-
+```
+Developed By: POOJA A
+Register Number: 212222240072 
 ```python
 import numpy as np
 import pandas as pd
