@@ -40,7 +40,8 @@ Step 4 : Test for the XOR patterns.
 ## Program:
 ```
 Developed By: POOJA A
-Register Number: 212222240072 
+Register Number: 212222240072
+```
 ```python
 import numpy as np
 import pandas as pd
